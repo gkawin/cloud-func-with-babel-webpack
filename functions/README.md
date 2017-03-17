@@ -1,5 +1,15 @@
 
-## THIS IS EXPERIMENT WITH GOOGLE FUNCTION (BETA VERSION)
+# Cloud Functions for Firebase (powered by Google Firebase)
 
-# Walkthrough
-- [ ] CRUD with Realtime database with Google firebase.
+Clone and experiment by yourself.
+
+- Install 
+`yarn`
+or
+`npm install`
+
+- build
+`yarn build`
+
+- deploy
+`yarn deploy -- -only functions`
