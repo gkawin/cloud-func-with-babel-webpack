@@ -2,8 +2,7 @@
   "name": "functions",
   "description": "Cloud Functions for Firebase",
   "scripts": {
-    "build": "babel src -d ./",
-    "build:webpack": "NODE_ENV=production webpack"
+    "build": "NODE_ENV=production webpack"
   },
   "dependencies": {
     "firebase-admin": "^4.1.2",
